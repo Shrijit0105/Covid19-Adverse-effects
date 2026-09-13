@@ -21,7 +21,7 @@
 
 <h1>This is a Group project by :</h1>
 <div class="Names">
-**Subhadip Jana**
+<li>Subhadip Jana</li>
 <li>Shrijit Sengupta</li>
 <li>Ayan Biswas</li>
 <li>Souvik Patra</li>
@@ -29,10 +29,10 @@
 <br>
 <div>
 Under the guidance of :
-**Dr Tahamina Yesmin**,
+<bold>Dr Tahamina Yesmin</bold>,
 Asst Professor,
 Department of CSE,
-Adamas University
+<bold>Adamas University</bold>
 </div>
 
 

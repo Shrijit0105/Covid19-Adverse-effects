@@ -4,11 +4,18 @@
   In this project, we compared mortality rates in different countries that recorded the same COVID-19 waves but had varying vaccine rates. This analysis aims to identify which countries effectively reduced excess mortality during each wave and to explore the influencing political and biological factors.   </p>
 
   <div class="workflow">
+    <caption>Flowchart of the project</caption>
 <img width="298" height="703" alt="image" src="https://github.com/user-attachments/assets/9c671e12-f607-46e0-b6a6-575d0c41308f" />
+  </div>
 
   <div class="Tools">
-  Tools used:
-  <li></li>
+  <caption><h3>Tools used:</h3></caption>
+  <li>Python</li>
+  <li>Numpy</li>
+  <li>Pandas</li>
+  <li>Scikit-learn</li>
+  <li>XgBoost</li>
+  <li>Random Forest</li>
 
 
 This is a Group project by :

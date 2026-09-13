@@ -1,4 +1,4 @@
-<h1>Topic- Covid19-Adverse-effects</h1>
+<h1>Project Title- Covid19 Adverse-effects</h1>
 <caption><h1>Introduction</h1></caption>
 <p>
   In this project, we compared mortality rates in different countries that recorded the same COVID-19 waves but had varying vaccine rates. This analysis aims to identify which countries effectively reduced excess mortality during each wave and to explore the influencing political and biological factors.   </p>
@@ -29,9 +29,9 @@
 <br>
 <div>
 <caption><h2>Under the guidance of :</h2></caption>
-<bold>Dr Tahamina Yesmin</bold>,
-Asst Professor,
-Department of CSE,
+<bold>Dr Tahamina Yesmin</bold>,<br>
+Asst Professor,<br>
+Department of CSE,<br>
 <bold>Adamas University</bold>
 </div>
 

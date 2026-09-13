@@ -1,7 +1,14 @@
 <h1>Topic- Covid19-Adverse-effects</h1>
 <caption><h1>Introduction</h1></caption>
 <p>
-  In this project, we will compare mortality rates in different countries that recorded the same COVID-19 waves but had varying vaccine rates. This analysis aims to identify which countries effectively reduced excess mortality during each wave and to explore the influencing political and biological factors. Vaccination is crucial for controlling the spread of COVID-19, suggesting the need for an optimal strategy in vaccine administration throughout the pandemic. Utilizing mathematical models and machine learning techniques, we will assess the entire epidemic situation. Previous studies have implemented various regression models to predict confirmed cases and mortality in India, employing metrics such as R-squared scores for evaluation. This study will further analyze the effects of COVID-19 booster doses on mortality rates and examine patterns in post-vaccination side effects using machine learning models.  </p>
+  In this project, we compared mortality rates in different countries that recorded the same COVID-19 waves but had varying vaccine rates. This analysis aims to identify which countries effectively reduced excess mortality during each wave and to explore the influencing political and biological factors.   </p>
+
+  <div class="workflow">
+<img width="298" height="703" alt="image" src="https://github.com/user-attachments/assets/9c671e12-f607-46e0-b6a6-575d0c41308f" />
+
+  <div class="Tools">
+  Tools used:
+  <li></li>
 
 
 This is a Group project by :

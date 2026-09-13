@@ -38,8 +38,8 @@ Department of CSE,<br>
 <bold>Adamas University</bold>
 </div>
 <br>
-<div class="Ref_link">
- <link href="https://youtu.be/X_I3c1Eje70?si=5QllY_Vszp0BIzJ-">Youtube
-</div>
+
+[!Youtube](https://youtu.be/X_I3c1Eje70?si=5QllY_Vszp0BIzJ-)
+
 
 

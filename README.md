@@ -1,7 +1,10 @@
 <h1>Project Title- Covid19 Adverse-effects</h1>
 <caption><h1>Introduction</h1></caption>
 <p>
-  In this project, we compared mortality rates in different countries that recorded the same COVID-19 waves but had varying vaccine rates. This analysis aims to identify which countries effectively reduced excess mortality during each wave and to explore the influencing political and biological factors.   </p>
+ 
+This project focused on building a practical and reliable risk prediction system using machine learning. Throughout the process, it became clear that working with real-world data is not just about achieving high accuracy, but also about understanding challenges such as data imbalance and model behaviour. While both Random Forest and XGBoost performed well, the results showed that consistency and generalisation matter more than perfect scores. Random Forest provided more realistic predictions, whereas XGBoost’s near-perfect performance indicated possible overfitting. Handling imbalance was one of the key challenges, and different approaches were explored before settling on a stable solution. This process helped in understanding how model decisions are influenced by data quality and distribution.
+Overall, the project demonstrates not only technical implementation but also practical problem-solving. It highlights the importance of making balanced and informed choices while building machine learning systems for real-world applications. 
+ </p>
 
   <div class="workflow">
     <caption> <h2>Flowchart of the project</h2> </caption>

@@ -10,7 +10,7 @@
   </div>
 
   <div class="Tools">
-  <caption><h3>Tools used:</h3></caption>
+  <caption> <h3>Tools used:</h3> </caption>
   <li>Python</li>
   <li>Numpy</li>
   <li>Pandas</li>
@@ -28,7 +28,7 @@
 </div>
 <br>
 <div>
-Under the guidance of :
+<caption><h2>Under the guidance of :</h2></caption>
 <bold>Dr Tahamina Yesmin</bold>,
 Asst Professor,
 Department of CSE,

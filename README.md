@@ -21,7 +21,7 @@
 
 <h1>This is a Group project by :</h1>
 <div class="Names">
-<li>**Subhadip Jana**</li>
+**Subhadip Jana**
 <li>Shrijit Sengupta</li>
 <li>Ayan Biswas</li>
 <li>Souvik Patra</li>

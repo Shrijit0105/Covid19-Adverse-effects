@@ -21,15 +21,18 @@
 
 <h1>This is a Group project by :</h1>
 <div class="Names">
-<li>Subhadip Jana</li>
+<li>**Subhadip Jana**</li>
 <li>Shrijit Sengupta</li>
 <li>Ayan Biswas</li>
 <li>Souvik Patra</li>
 </div>
-
+<br>
+<div>
 Under the guidance of :
-Dr Tahamina Yesmin,
+**Dr Tahamina Yesmin**,
 Asst Professor,
 Department of CSE,
 Adamas University
+</div>
+
 
